@@ -1,0 +1,10 @@
+GIT Resources
+https://docs.google.com/presentation/d/11LDtFnVyQ9M6Ac1x80otGYNk5UP_rXJq7pWR5QJO7fE/edit#slide=id.g27aa066e703_0_2
+
+GIT install 
+$ sudo apt-get update
+$ sudo apt-get install git.
+git --version
+
+GUVI assignment
+https://docs.google.com/document/d/1c5WK0R0WACtqT7u8vdBP_xbAwajHxBA7xgWyY-8PKTw/edit
